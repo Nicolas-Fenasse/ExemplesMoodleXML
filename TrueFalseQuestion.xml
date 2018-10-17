@@ -1,0 +1,14 @@
+<question type="matching">
+		<name>
+			<text>Demo question TrueFalse</text>
+		</name>
+		<questiontext format="html">
+			<text>La réponse est true</text>
+		</questiontext>
+		<answer>
+			<text>True</text>
+		</answer>
+		<answer>
+			<text>False</text>
+		</answer>
+</question>
