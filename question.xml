@@ -1,0 +1,14 @@
+<question type="matching">
+		<name>
+			<text>Demo question testn</text>
+		</name>
+		<questiontext format="html">
+			<text>La réponse est A, quelle est la réponse ?</text>
+		</questiontext>
+		<answer>
+			<text>A</text>
+		</answer>
+		<answer>
+			<text>B</text>
+		</answer>
+</question>
